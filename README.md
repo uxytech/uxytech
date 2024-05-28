@@ -16,7 +16,7 @@
     <a align="left">
    <img src="https://lanyard.kyrie25.me/api/1167566154697560127"  />
   </a>
-  <a href="https://github.com/rdwandev" align="center"><img src="https://github-readme-stats.vercel.app/api?username=rdwandev&hide_border=true&show_icons=true&theme=radical" alt="rdwandev's github stats"></a>
+  <a href="https://github.com/uxytech" align="center"><img src="https://github-readme-stats.vercel.app/api?username=uxytech&hide_border=true&show_icons=true&theme=radical" alt="uxytech's github stats"></a>
   <br>
 
 
